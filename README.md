@@ -1,1 +1,2 @@
-# Pandas-Challenge-2
+# Usage of Pandas libraries such as Matpotlil Scipy and more in order to assess and visualize success of drug regiments in terms of decreasing tumor volume in mice
+# Pymaceuticals is a fictional firm developing treatment for skin cancer. In this challenge, as a worker of Pymaceuticals we have to create technical report for visualization of all the data regarding treatments of mice. This includes, which of the drug regiments had most success in bringing tumor levels down and what could be possible other factors correlated with tumor volume in mice. Furthermore, we continue by constructing various graphs such as scatter, boxplots, regression line and more
